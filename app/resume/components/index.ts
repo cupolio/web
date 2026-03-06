@@ -1,0 +1,9 @@
+export { FormSectionBasicInfo } from "./FormSectionBasicInfo";
+export { FormSectionPreference } from "./FormSectionPreference";
+export { FormSectionEducation } from "./FormSectionEducation";
+export { FormSectionCareer } from "./FormSectionCareer";
+export { FormSectionActivity } from "./FormSectionActivity";
+export { FormSectionSkills } from "./FormSectionSkills";
+export { FormSectionLinks } from "./FormSectionLinks";
+export { FormSectionIntroduction } from "./FormSectionIntroduction";
+export { FormSectionCertificationAward } from "./FormSectionCertificationAward";
